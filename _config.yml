@@ -25,6 +25,7 @@ github_username:  dbwodlf3
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title:output_ext
+header_pages: [posts/index.md, about.md]
 
 plugins:
   - jekyll-feed
