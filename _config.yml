@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computer Science to the Decillion bits
+title: Computer Science to the Decillion
 email: dbwodlf3@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science and Programming.
